@@ -21,5 +21,4 @@ const container = document.querySelector('.gallery');
         captionsData: 'alt',
         captionDelay: 250,
      });
-    console.log(lightbox);
 })();
